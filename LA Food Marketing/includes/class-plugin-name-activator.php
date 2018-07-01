@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       http://lafood.com
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    LA_FOOD_Marketing
+ * @subpackage LA_FOOD_Marketing/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    LA_FOOD_Marketing
+ * @subpackage LA_FOOD_Marketing/includes
+ * @author     Peter Gray <peter@bpmmarketing.com>
  */
-class Plugin_Name_Activator {
+class LA_FOOD_Marketing_Activator {
 
 	/**
 	 * Short Description. (use period)

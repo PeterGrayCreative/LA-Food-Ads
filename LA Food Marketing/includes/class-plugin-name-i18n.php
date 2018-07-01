@@ -6,11 +6,11 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://example.com
+ * @link       http://lafood.com
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    LA_FOOD_Marketing
+ * @subpackage LA_FOOD_Marketing/includes
  */
 
 /**
@@ -20,11 +20,11 @@
  * so that it is ready for translation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    LA_FOOD_Marketing
+ * @subpackage LA_FOOD_Marketing/includes
+ * @author     Peter Gray <peter@bpmmarketing.com>
  */
-class Plugin_Name_i18n {
+class LA_FOOD_Marketing_i18n {
 
 
 	/**
